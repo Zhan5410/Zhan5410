@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋 ， 我叫 謝智翰</h1>
 <h3 align="center">一名資工系的應屆畢業生</h3>
 
-- 🤝 曾經的demo ： [side_project]（https://github.com/Zhan5410/chi_cooperate）
-
 - 🌱 我正在學習 ： **C# & .NET ， Docker & kubernetes**
 
-- 🔭 學習kotlin時的demo ： [MixerConverter]（https://github.com/Zhan5410/MixerConverter）
+- 🔭 學習java時的demo ： side_project（https://github.com/Zhan5410/chi_cooperate）
+
+- 🔭 學習kotlin時的demo ： MixerConverter（https://github.com/Zhan5410/MixerConverter）
 
 - 📫 聯絡方式 ： **jack65802@gmail.com**
 
